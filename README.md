@@ -30,7 +30,7 @@ A fun, interactive AI chatbot themed for Hari Raya Aidilfitri! Users must prove 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pak-cik-raya-ai.git
+git clone https://github.com/adamrazali11/pak-cik-raya-ai.git
 cd pak-cik-raya-ai
 ```
 
