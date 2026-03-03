@@ -1,3 +1,5 @@
+![pakcik ai 2](https://github.com/user-attachments/assets/d9b38572-cf32-48db-bce0-47df7bf31ffc) ![pakcik ai 1](https://github.com/user-attachments/assets/75f538f9-0578-4814-a83d-b22afc4820b6)
+
 # Pak Cik Raya AI 🤖🌙
 
 A fun, interactive AI chatbot themed for Hari Raya Aidilfitri! Users must prove they are a "True Friend" to claim Duit Raya. Powered by Google Gemini AI.
