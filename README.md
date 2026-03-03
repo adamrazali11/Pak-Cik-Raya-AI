@@ -1,4 +1,4 @@
-![pakcik ai 2](https://github.com/user-attachments/assets/d9b38572-cf32-48db-bce0-47df7bf31ffc) ![pakcik ai 1](https://github.com/user-attachments/assets/75f538f9-0578-4814-a83d-b22afc4820b6)
+![pakcik ai 2](https://github.com/user-attachments/assets/d9b38572-cf32-48db-bce0-47df7bf31ffc) ![pakcik ai 1](https://github.com/user-attachments/assets/0f47e40b-9f9d-4b90-805b-d0e9d5315963)
 
 # Pak Cik Raya AI 🤖🌙
 
